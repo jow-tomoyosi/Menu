@@ -1,0 +1,193 @@
+body{
+    background-color: black;
+}
+
+table {
+    margin: auto;
+    margin-top: 250px; /* para adicionar espaço entre a tabela e o topo da página */
+}
+
+a {
+    text-decoration: none;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    text-align: center;
+    font-size: 1.5em;
+color: #fff;
+}
+
+.shadow__btn-link {
+    padding: 30px;
+    border: none;
+    font-size: 17px;
+    color: #fff;
+    border-radius: 7px;
+    letter-spacing: 4px;
+    font-weight: 700;
+    text-transform: uppercase;
+    transition: 0.5s;
+    transition-property: box-shadow;
+    display: flex;
+			justify-content: center;
+			align-items: center;
+			
+  }
+  
+  .shadow__btn-link {
+    background: rgb(0,140,255);
+    box-shadow: 0 0 25px rgb(0,140,255);
+  }
+  
+  .shadow__btn-link:hover {
+    box-shadow: 0 0 5px rgb(0,140,255),
+                0 0 25px rgb(0,140,255),
+                0 0 50px rgb(0,140,255),
+                0 0 100px rgb(0,140,255);
+  }
+
+  .shadow__btn-you {
+    padding: 30px;
+    border: none;
+    font-size: 17px;
+    color: #fff;
+    border-radius: 7px;
+    letter-spacing: 4px;
+    font-weight: 700;
+    text-transform: uppercase;
+    transition: 0.5s;
+    transition-property: box-shadow;
+    display: flex;
+			justify-content: center;
+			align-items: center;
+  }
+  
+  .shadow__btn-you {
+    background: rgb(255, 0, 0);
+    box-shadow: 0 0 25px rgb(255, 0, 0);
+    justify-content: center;
+		align-items: center;
+  }	
+  
+  .shadow__btn-you:hover {
+    box-shadow: 0 0 5px rgb(255, 0, 0),
+                0 0 25px rgb(255, 0, 0),
+                0 0 50px rgb(255, 0, 0),
+                0 0 100px rgb(255, 0, 0);
+  }
+
+  .shadow__btn-wat {
+    padding: 30px;
+    border: none;
+    font-size: 17px;
+    color: #fff;
+    border-radius: 7px;
+    letter-spacing: 4px;
+    font-weight: 700;
+    text-transform: uppercase;
+    transition: 0.5s;
+    transition-property: box-shadow;
+    display: flex;
+			justify-content: center;
+			align-items: center;
+  }
+  
+  .shadow__btn-wat {
+    background: rgb(15, 193, 24);
+    box-shadow: 0 0 25px rgb(15, 193, 24);
+  }
+  
+  .shadow__btn-wat:hover {
+    box-shadow: 0 0 5px rgb(15, 193, 24),
+                0 0 25px rgb(15, 193, 24),
+                0 0 50px rgb(15, 193, 24),
+                0 0 100px rgb(15, 193, 24);
+  }
+
+  .shadow__btn-gm {
+    padding: 30px;
+    border: none;
+    font-size: 17px;
+    color: #fff;
+    border-radius: 7px;
+    letter-spacing: 4px;
+    font-weight: 700;
+    text-transform: uppercase;
+    transition: 0.5s;
+    transition-property: box-shadow;
+    display: flex;
+			justify-content: center;
+			align-items: center;
+            width: 213px;
+            padding: 30px;
+  }
+  
+  .shadow__btn-gm {
+    background: rgb(255, 0, 0);
+    box-shadow: 0 0 25px rgb(255, 0, 0);
+  }
+  
+  .shadow__btn-gm:hover {
+    box-shadow: 0 0 5px rgb(255, 0, 0),
+                0 0 25px rgb(255, 0, 0),
+                0 0 50px rgb(255, 0, 0),
+                0 0 100px rgb(255, 0, 0);
+  }
+
+  .shadow__btn-git {
+    padding: 30px;
+    border: none;
+    font-size: 17px;
+    color: #fff;
+    border-radius: 7px;
+    letter-spacing: 4px;
+    font-weight: 700;
+    text-transform: uppercase;
+    transition: 0.5s;
+    transition-property: box-shadow;
+    display: flex;
+			justify-content: center;
+			align-items: center;
+            width: 213px;
+            padding: 30px;
+  }
+  
+  .shadow__btn-git {
+    background: rgb(106, 82, 110);
+    box-shadow: 0 0 25px rgb(106, 82, 110);
+  }
+  
+  .shadow__btn-git:hover {
+    box-shadow: 0 0 5px rgb(106, 82, 110),
+                0 0 25px rgb(106, 82, 110),
+                0 0 50px rgb(106, 82, 110),
+                0 0 100px rgb(106, 82, 110);
+  }
+
+  .shadow__btn-ud {
+    padding: 30px;
+    border: none;
+    font-size: 17px;
+    color: #fff;
+    border-radius: 7px;
+    letter-spacing: 4px;
+    font-weight: 700;
+    text-transform: uppercase;
+    transition: 0.5s;
+    transition-property: box-shadow;
+    display: flex;
+			justify-content: center;
+			align-items: center;
+            width: 213px;
+            padding: 30px;
+  }
+  
+  .shadow__btn-ud {
+    background: rgb(170, 10, 195);
+    box-shadow: 0 0 25px rgb(170, 10, 195);
+  }
+  
+  .shadow__btn-ud:hover {
+    box-shadow: 0 0 5px rgb(170, 10, 195),
+                0 0 25px rgb(170, 10, 195),
+                0 0 50px rgb(170, 10, 195),
+                0 0 100px rgb(170, 10, 195);
+  }
