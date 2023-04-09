@@ -29,6 +29,8 @@ color: #fff;
     display: flex;
 			justify-content: center;
 			align-items: center;
+      width: 235px;
+      padding: 30px;
 			
   }
   
@@ -58,6 +60,8 @@ color: #fff;
     display: flex;
 			justify-content: center;
 			align-items: center;
+      width: 235px;
+      padding: 30px;
   }
   
   .shadow__btn-you {
@@ -88,6 +92,8 @@ color: #fff;
     display: flex;
 			justify-content: center;
 			align-items: center;
+      width: 235px;
+      padding: 30px;
   }
   
   .shadow__btn-wat {
@@ -116,7 +122,7 @@ color: #fff;
     display: flex;
 			justify-content: center;
 			align-items: center;
-            width: 213px;
+            width: 235px;
             padding: 30px;
   }
   
@@ -146,7 +152,7 @@ color: #fff;
     display: flex;
 			justify-content: center;
 			align-items: center;
-            width: 213px;
+            width: 235px;
             padding: 30px;
   }
   
@@ -176,7 +182,7 @@ color: #fff;
     display: flex;
 			justify-content: center;
 			align-items: center;
-            width: 213px;
+            width: 235px;
             padding: 30px;
   }
   
